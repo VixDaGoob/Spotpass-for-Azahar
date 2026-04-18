@@ -1,2 +1,2 @@
-# Streetpass-Mii-Plaza-Spotpass-for-Azahar
-Basically, this is meant to be a project to help preserve Spotpass and allowing users to use it in Streetpass Mii Plaza 5.0 in an emulator!
+# Spotpass-for-Azahar
+This project is to preserve Spotpass and be able to use it in Azahar! the main focus at the moment is getting all puzzle panels in Azahar to be able to actually 100% it though i do need a physical 3ds to do this so if anyone can help thanks!
